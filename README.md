@@ -4,8 +4,6 @@
 
 - 🔭 I'm currently working on **P&S Co.,Ltd.**
 
-- 💬 Ask me about **React, TypeScript,Vite**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ndozono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ndozono" height="30" width="40" /></a>
