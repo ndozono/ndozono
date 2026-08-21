@@ -2,7 +2,7 @@
 
 ### Frontend Engineer from Fukuoka, Japan
 
-- 🔭 I'm currently working on **P&S Co.,Ltd.**
+- 🔭 I'm currently working on **???**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
